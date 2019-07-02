@@ -1,5 +1,20 @@
 package br.com.LucasMontalvãoBongalhardo;
 
+import calendarioClasses.Calendario;
+import calendarioClasses.CalendarioFormat;
+import calendarioClasses.DisplayCalendario;
+import horarioClasses.DisplayTime;
+import horarioClasses.Horario;
+import horarioClasses.TimeFormat;
+import radioClasses.DisplayRadio;
+import radioClasses.Radio;
+import radioClasses.RadioFormat;
+import temperaturaClasses.DisplayTemperatura;
+import temperaturaClasses.Temperatura;
+import temperaturaClasses.TemperaturaFormat;
+import defaultClasses.Display;
+import defaultClasses.Format;
+
 public class Main {
 
 	public static void main(String[] args) {
